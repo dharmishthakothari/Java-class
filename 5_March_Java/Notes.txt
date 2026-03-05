@@ -1,0 +1,82 @@
+Java ...
+Core Java 
+--installation 
+--jdk and editor/ide / eclipse /antigravity 
+-basics 
+   datatypes / conditional stmt /control statements 
+   loops
+   logic buidling programs 
+   arrays
+   --OOPS -
+       class
+    object
+    Encapsulation
+    Polymorphisum
+    Abstraction 
+    Inheritance 
+    File Handling
+    Exceptions
+    Collection 
+
+
+    Installation ---
+class
+package
+main
+
+Program structure 
+1. Documentes/commebnts
+2. pakage stmt ( collection  of related sub pkages ,classes and interfaces 
+3. class stmt
+4. main---where execution is starts 
+
+Rule -- File name and public class name must be same 
+methods ? to perfrom specific task eg printf , power , findFactorial ,
+main --- execution starts 
+
+function return type , paramters ,names 
+
+public - modifier / accessible 
+static - keyword / 
+void -- return 
+main --- name
+String -paramters 
+args[] --array of string ---command line 
+
+printf("Hello world");
+
+System class 
+out 
+println() 
+
+
+Data Types =-==== Which type of data wants to store ?
+name =
+age = 
+cNo = 
+birthdate 
+numeric , characters ,decimal 
+
+variables ? - indetifier to store values 
+age 
+name
+percentage 
+grade
+Rules for variables 
+1Age
+age1
+Age1
+
+    comments --- non executable part 
+    for documentation purpose 
+
+    3 
+    // single line
+    /*  */ multiline comment
+    /** */ documentation comment 
+
+    String -class
+    int,float ---primitive data type
+    
+    --Accept data from user and operators/conditional 
+
