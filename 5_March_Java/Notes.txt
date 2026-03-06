@@ -80,3 +80,19 @@ Age1
     
     --Accept data from user and operators/conditional 
 
+6th march 
+Datatypes , program structure , comments , main , variables 
+
+--accept data from user  --- 
+      Scanner ---inbuild class ,object ,methods , values int,float ,string
+
+accept data from user 
+1. name , age , address , email , contact_no , gender and percentage 
+   and display this information
+
+\t , \n , \\ ,\" , \'
+
+
+--operators 
+
+
