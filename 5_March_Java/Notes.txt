@@ -120,3 +120,7 @@ if
 if-else
 if-elseif 
 
+Lab Taks -- user is eligible for learning licence (age enter)
+check 2 digit number ya 3 digit number (input = 123 = 3digit input=67 = 2digit number
+
+
