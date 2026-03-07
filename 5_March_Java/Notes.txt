@@ -95,4 +95,28 @@ accept data from user
 
 --operators 
 
+7th march 
+- Arithmatic operation (+,-,*,/,%)
+- Assignment operators += , -=, *= ....
+   increment value by 5 
+   int no;
+   no=no+5;
+   no+=5
+- Relational operators <,>,<=,>=,!=,==  (true/false)
+- Logical operators  && , || , ! (componde stmt mixing 2/more condition) (true/false) && means all condition true then it will give true ouput 
+|| if either of condition is true then it will give true output.
+! - reverse 
+
+-bit wise &,|,!
+-increment/decrement ++,--
+
+conditional stmt----no of alternatives then we have to check the condition 
+if
+if -else
+if -elseif
+nested if
+
+if
+if-else
+if-elseif 
 
