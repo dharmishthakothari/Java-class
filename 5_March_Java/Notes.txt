@@ -150,5 +150,58 @@ if condition
 eligible to donate blood or not
 age>18 weight >55
 
+10th march 
+---conditional statements 
+ if
+if else
+if elseif
+nested it
+switch case
 
+bitwise operator bit byte bit
+3
+0011
+5
+0101
+
+3&5
+   0011
+   0101
+&  0001 ==1
+|  0111 ==7 
+
+condition1 Condition2  &      |
+T            T         T      T
+T            F         F      T
+F            T         F      T
+F            F         F      F 
+
+T&&
+F&
+
+Loops ---repeatation 
+print 5 times Hello World 
+print 50 time hello World
+
+loops / iteration
+3 types 
+1.for         entry control ,when you know no of iteration in advanced 
+2.while      entry control , when you don't know no of iteration in advanced 
+3. do while   exit control  , when you don't know no of iteration in advanced 
+
+for(intilization ; condition ; increment/decrement)
+for(int i=1;i<=5;i++)
+{
+   sop("Hello World");
+}
+
+Mulilication Table 
+
+8 * 1 =8
+8 * 2 =16
+8 * 3= 24
+8 * 4= 32
+
+Lab Task : if number is even then print table 
+sum of numbers from 1-10 
 
