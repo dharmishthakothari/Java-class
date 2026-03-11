@@ -205,3 +205,62 @@ Mulilication Table
 Lab Task : if number is even then print table 
 sum of numbers from 1-10 
 
+11th March 
+Prime Number ---13 , 17 ,5 ,3
+input = 8  (2-7)  
+   8%2 = 0 ---break
+   
+input =17   (2-16)
+   17%2==0
+   17%3==0   
+   17%4==0
+   17%5==0
+   ..
+...
+..   17%16==0
+      prime number
+
+--count no of digits --input = 9876 --4
+input === 9786
+9786%10 === 6
+9786/10 ==978
+
+978%10 ===8
+
+
+
+6
+8
+7
+9
+
+
+Menu Driven Program ---
+1. Check Prime
+2. Count total Digit
+3. Sum of Digit
+4. Count even/odd Digits
+5. Exit
+Enter your choice 1
+Please enter number --- 234 -- Number is not Prime 
+
+1. Check Prime
+2. Count total Digit
+3. Sum of Digit
+4. Count even/odd Digits
+5. Exit
+Enter your choice 3
+Please enter number = 239 Sum of digit is 14
+
+1. Check Prime
+2. Count total Digit
+3. Sum of Digit
+4. Count even/odd Digits
+5. Exit
+Enter your choice 4
+
+Enter number 2231  even_number=2 , odd_number 2
+
+
+
+
