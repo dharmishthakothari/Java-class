@@ -324,3 +324,31 @@ r5* *  1,2 (5-4+1)
 r6* * *  1,2,3 (6-4)
 r7* * * * 1,2,3,4 (7-4)
 
+16th March 
+
+Array ---collction of same data type in single name.
+100
+100---+5
+100
+105+5
+110+10
+115+15
+
+0--121
+1--566
+2--6767
+
+
+Lab Task : frequency count
+size = 5
+11
+22
+22
+33
+11
+ans
+11 -- 2
+22 --2
+33 --1
+
+2nd Lab task : accessing order 
