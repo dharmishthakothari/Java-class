@@ -352,3 +352,53 @@ ans
 33 --1
 
 2nd Lab task : accessing order 
+
+17th March 
+--copy from one array to another 
+--copy unique elements /remove dublicate
+
+3
+11
+22
+11
+1==2
+if(numbers[i]==numbers[i+1])
+{
+   copy_array[j]=numbers[i];
+}
+
+1
+2
+33
+44
+
+1---2                     
+1--33      2---33           
+1--44       2--44      33-44      44--33
+
+1--2
+2--2
+3--2
+4--2
+5--2
+
+uniq[0]=1 1--number[0]----numbers[sze]
+
+
+1
+22
+33
+44
+Enter element to search 33
+Found at 2 index
+Lab Task :
+22
+33
+44
+55
+ans  - Reverse Array 
+55
+44
+33
+22
+
