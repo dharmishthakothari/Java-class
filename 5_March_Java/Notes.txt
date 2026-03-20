@@ -441,18 +441,7 @@ matrix[2][1]=78;
 martix[2][2]=67;
 
 
---Lab Task : Print only Even numbers from 2D array
-----search element from an array
----find sum of diagonal numbers
-1 22 33
-2 3 4
-4 5 6
-1+3+6 = 10
-2 3
-12 33
-2+33=35
---mulply each element with 2 
----add 2 matrix 
+
 
 
 conditional stmt
@@ -462,6 +451,56 @@ operatoras
 arrays
 variable/data types
 OOPS
+
+20th March 
+----array 2D  0col      1col      2col
+0th row        11         12      13    
+1st row        23         45       89   
+2nd row       33           45      22
+
+2x2
+12   23
+2     4
+
+i==j element--sum
+
+2
+3
+
+1   2   3
+4   5   6
+7   8   9
+
+OOPS ---
+JAVA --Oject oriented Programming /pure (data types int,float --primitive(Wrapper classes) ,multiple inheritance(interfaces) )
+
+class/object   ----  
+            class is blueprint . (strcture/roadmap)
+            not real entity
+            collection of objects
+            class have data members and member function 
+                  HUMAN ---legs , hands , eyes ,ear,,,
+                           speaking,waling,talking.......
+            class state and behavoiur
+
+object ----- real entity 
+            object have it's own data and function 
+            It is type of class.
+            Human Shivansh 
+            Human dharmishtha
+
+            
+
+
+Inheritance   ---types
+Encapsulation
+Abstraction
+Polymorphisum
+
+
+
+
+
 
 
 
