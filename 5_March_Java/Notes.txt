@@ -497,6 +497,32 @@ Encapsulation
 Abstraction
 Polymorphisum
 
+21st march
+---OOPS
+i. Class and object 
+class blueprint ---data members and member function ---collection object.
+
+
+object ---- real entity ---it has it's own data --type of class
+
+
+Scanner scan=new Scanner(System.in)
+Scanner ----- in build class
+scan--object
+
+create class called Person having data members name,c_no,address and method display
+class Person
+{
+   String name;
+int cNo;
+String address;
+void display(){
+sysout(name+"-"+cNo+"-"+address);
+}
+                  
+lab Task : Vehical class data user and 5 time run and display
+LabTask : Employee - name,eid,salary ,accept user details and display
+         2. salary 20000 > display those employees only
 
 
 
