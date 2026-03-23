@@ -552,6 +552,19 @@ constructor
 display 
 
 2 object and call display 
+LabTask : Array for Student
+---constructor vs method
+---constructor must have a same name as class name
+   while method may have different name
+
+--con calls automatically
+  method we need to call explicatly
+
+--each java file have default contructor
+  thr is no default method
+
+--constructor doesn't return anything
+--method can return
 
 
 
