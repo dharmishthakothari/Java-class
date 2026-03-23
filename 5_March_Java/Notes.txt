@@ -525,6 +525,33 @@ LabTask : Employee - name,eid,salary ,accept user details and display
          2. salary 20000 > display those employees only
 
 
+23rd March 
+-----Employee enam,eid,salary,city  ,getDetails , display
+lab Task : Vehical class data user and 5 time run and display
+Do it with array
+
+Display those employees whose salary is more than 20000
+---Menu Driven program
+1. Add Employee
+2. Display By eid
+3. Display by City
+4. update employee
+5. Exit
+
+Constructor ----- ? is use to initize an object
+--they called automatically 
+--at the time of object creation 
+--Constructure have a same name as class name 
+---they won't return anything
+---Every class contains 1 default contructor --Default constructor don't have parameters.
+
+getDetails ....Employee
+
+----Student class --- name,marks,age
+constructor
+display 
+
+2 object and call display 
 
 
 
