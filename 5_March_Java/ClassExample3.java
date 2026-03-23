@@ -2,11 +2,11 @@ package basic;
 
 import java.util.Scanner;
 
-class Employee
+class Employee1
 {
 	int eid,salary;
 	String name,city;
-	public void getDetails(int eid1,String name1,int salary1,String city1)
+	Employee1(int eid1,String name1,int salary1,String city1)
 	{
 		eid=eid1;
 		salary=salary1;
@@ -20,7 +20,7 @@ class Employee
 }
 
 
-public class ClassExample2 {
+public class ClassExample3{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -29,7 +29,7 @@ public class ClassExample2 {
 		System.out.println("Enter no of employees ");
 		int size=scan.nextInt();
 		
-		Employee employees[]=new Employee[size];
+		Employee1 employees[]=new Employee1[size];
 		for(int i=0;i<employees.length;i++)
 		{
 			System.out.println("Enter eid name city salary ");
@@ -37,8 +37,7 @@ public class ClassExample2 {
 			String name=scan.next();
 			String city=scan.next();
 			int sal=scan.nextInt();
-			employees[i]=new Employee();
-			employees[i].getDetails(eid, name, sal, city);
+			employees[i]=new Employee1(eid, name, sal, city);
 		}
 		//For printing
 		for(int i=0;i<employees.length;i++)
