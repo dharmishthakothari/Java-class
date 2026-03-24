@@ -566,7 +566,42 @@ LabTask : Array for Student
 --constructor doesn't return anything
 --method can return
 
+24th March
 
+---construtors
+--method
+      to perform perticular task (print,take input ,calculate Salary)
+      in built methods(println,nextInt,next) and user defined (caculateInterest,calculateSalary,getDetails,display)
+
+function always name , parameters and return type
+---create function to calculate Simple interest
+p,r,n
+float calculateinterest(int p,int r,int n)
+{
+   float interest=p*r*n/100;
+   return interest;
+}
+
+--getCircleArea()
+--getSquareArea()
+--getRectagleArea()
+
+----Contructors can also overloading 
+Person ---- name,address
+            name,cno
+            name,address,cno
+
+
+Inheritance ------ 
+Property of one class can use property of another class.
+--B can be property of class A
+---reusability
+
+---Single Inhitance  one parent , one child
+--Multilevel         grandparent , parent ,child
+--Multiple  ---java directaly not supported but thru interface we can achive  ,,mother-Father child
+--Hierchical   --- one parent class having 2 child classes 
+--Hybrid  -- mixing of any above 
 
 
 
