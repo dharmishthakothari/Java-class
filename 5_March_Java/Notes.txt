@@ -603,6 +603,43 @@ Property of one class can use property of another class.
 --Hierchical   --- one parent class having 2 child classes 
 --Hybrid  -- mixing of any above 
 
+25th March 
+--class / object / contructor /methods / inheritance 
+
+Multilevel --- A-B-C c can also use members of A,B B use A
+Multiple ---- 2 classes extending in a single class possible nahi 
+class A
+{
+}
+class B
+{
+}
+class C extends A,B 
+
+hierachical -- class 2 classes will extended by class a
+class A
+{
+}
+class B exnteds A
+{}
+class C exnteds A
+{
+}
+
+Polymorphisum ---- ability to take more than one form 
+-->Priyanshu , is student , Son , brother ,employee 
+2 Compile time polymorphisum/static binding eg method Overloading (same method name , arguments are different)  At the time of compilation , it disides which method is going to be called.
+construtor overload 
+
+Person
+Person(id,name,c_no)
+Person(id,name)
+Person(name)
+
+
+Run time poly/Dynamic bindning  eg method overididng (same method name ,same paramter)
+---same name same argument (inheritance)
+
 
 
 
