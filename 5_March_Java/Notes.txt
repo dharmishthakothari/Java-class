@@ -640,6 +640,38 @@ Person(name)
 Run time poly/Dynamic bindning  eg method overididng (same method name ,same paramter)
 ---same name same argument (inheritance)
 
+27th March 
+---Inheritance
+---Polymorphisum ? more then one form
+2 types of poly
+1. Compile time --- Method Overloading , Operator Overloading (java not suppoerted)
+2. Run time ---Method overdiding (same name ,same argument)
+
+---Abstraction ---- showing only essetial details and hiding other details
+---abstract may be class 
+---abstract may be method 
+---method abstract then that class becomes abstract 
+---abstract/summary/adhura
+
+Rules 
+1. abstract class you can not create object 
+2. abstract class must contains more then one abstract method
+
+
+abstract method must be implemented in sub class 
+abstract method doesn't contain body 
+
+interview Question 
+- diff between abstract and concrete class
+
+create Bank class having calculateInterest is abstract method
+create 2 subclass called Axis(0.6) and SBI(0.8) and override this method and call this method
+
+interface ? 
+--- interfaces are 100% abstract 
+class can implements more that one interfaces
+---by default interfces methods are public abstract 
+
 
 
 
