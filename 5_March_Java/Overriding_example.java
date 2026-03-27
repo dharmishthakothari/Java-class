@@ -1,11 +1,11 @@
 package basic;
 
-class Shape
+abstract class Shape
 {
-	int calculateArea()
-	{
-		return 0;
-	}
+	abstract int calculateArea();
+//	{
+//		return 0;
+//	}
 }
 class Circle extends Shape
 {
