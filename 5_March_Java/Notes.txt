@@ -672,6 +672,30 @@ interface ?
 class can implements more that one interfaces
 ---by default interfces methods are public abstract 
 
+28th march 
+Encapsulation ---- wrapping up of data and member function into single unit.
+generally data are private and methods are public .
+getter/settter
+
+
+public - protected - private - default 
+private int privatedata=10;
+public int publicData=10;
+protecdted int protecteddata=10;
+int defaultdata=0;
+
+--same package --- default , protected and public
+--different --- public ,protected (extends)
+same class --private 
+all over - public 
+
+---final keyword 
+final class , method , variable
+--class is final then this class can not extends/sublcass
+--method final , you can not override that method
+--final variable , constant you can not change value 
+
+
 
 
 
