@@ -696,6 +696,37 @@ final class , method , variable
 --final variable , constant you can not change value 
 
 
+30th March 
+
+access modifier ---- public private protected default 
+
+final ---- class class extends
+            method / override
+            can't change
+
+static ---- initilize only once , memory management purpose
+            data , function 
+
+this keyword ---- current referece 
+                  constructor
+
+constructor chaining 
+this---data , contructor , method
+
+String ----- ? 
+String name="emp1";
+immutable --- not change it
+
+StringBuffer / StringBuilder ---mutable 
+
+LabTask : find no of vowels in string 
+
+StringBuffer/StringBuilder 
+---same
+buffer - thread safe - synhonization
+builder - not thread safe 
+
+
 
 
 
