@@ -726,6 +726,46 @@ StringBuffer/StringBuilder
 buffer - thread safe - synhonization
 builder - not thread safe 
 
+---31st march
+
+---String vs StringBuffer vs StringBuilder
+String ----> immutable
+StringBuffer --->ThreadSafe , mutable
+StringBuilder ---Not threadsafe , mutable
+
+---palidrome ---- string and reversestring both are same then it's palidrome
+
+Wrapper classes 
+--- int--->Integer
+float--->Float
+char-->Character
+double--->Double
+
+Exception ?  
+--->user enters string instead of number
+--->User reading file which is not exist 
+--->user accessing index of element which not exist . array ki size 10 array 12th index 
+-->Value devide by 0
+
+which break normal execution of flow .
+2 types 
+i)  Checked/compile time --->Must have to handle with try and catch  
+ii) Unchecked/Run time  =---> thow runtime need not handle.
+
+Thowable main 
+Exception class
+RunTimeExaception 
+
+One try block has multiple catch 
+try
+{
+}catch()
+{
+}
+catch()
+{
+}
+
 
 
 
