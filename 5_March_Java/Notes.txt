@@ -765,6 +765,33 @@ try
 catch()
 {
 }
+1st April 
+
+try
+catch 
+throws
+finally  --- error ocurre finally will always execute 
+
+custome exception 
+---we can create our own exception 
+
+class extends excception
+
+LabTask : same exception handle with try and cathc
+2. throw vs throws 
+
+File Handling 
+----file ----  collection / data store 
+console 
+FILE ---read/write 
+open 
+read/write/append/
+close 
+File is class 
+Folder ,path 
+
+
+
 
 
 
