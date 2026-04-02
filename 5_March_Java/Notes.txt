@@ -790,8 +790,26 @@ close
 File is class 
 Folder ,path 
 
+2nd April 
 
+File 
+1. folder 
 
+Stream ---File can be read/write character by character
+                                  byte by byte 
+Byte by byte --Stream classes
+character by character -- Reader/Writer Classes 
+
+FileInputStream/FileReader
+FileOutputStream/FileWriter
+
+BuffereInputStream/BufferReader
+
+LabTask : read,read,read
+write,write ,write 
+
+1) copy file from one file to another 
+2. Write a data from console until user enter s "END"
 
 
 
