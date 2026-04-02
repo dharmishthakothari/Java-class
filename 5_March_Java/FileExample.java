@@ -6,5 +6,6 @@ public class FileExample {
         System.out.println(file.exists());
         System.out.println(file.getParent() + "\t" + file.getPath());
         System.out.println(file.isFile() + "\t" + file.isDirectory());
+
     }
 }
