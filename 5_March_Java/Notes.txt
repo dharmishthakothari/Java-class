@@ -811,6 +811,24 @@ write,write ,write
 1) copy file from one file to another 
 2. Write a data from console until user enter s "END"
 
+3rd April 
+--- File reading/wrieting 
+Strem -FileInputStream/FileOutputStrema
+
+Reader/Writer
+
+LabTask : read methods of Reader
+write methods of Writer
+
+Buffer ---- 
+
+-----Collection 
+group of element/objects
+----Framework
+---data structure 
+organize way data store /use
+--
+
 
 
 
