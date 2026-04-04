@@ -829,7 +829,60 @@ group of element/objects
 organize way data store /use
 --
 
+4th April 
+---
+LAB TASK :
+Check File Properties
 
+1. Write a program to check:
+
+If file exists
+File name
+Absolute path
+File size
+
+2. Count Words in a File
+
+Read a file and count:
+
+Number of words
+Number of lines
+
+3. Write a program to search for a specific word in a file and print how many times it appears.
+
+4. Take input from user and store it in a file.
+
+5. Merge Two Files
+
+Read two files and merge their contents into a third file.
+
+Collection
+1 Create an ArrayList of integers
+Add 5 numbers
+Display them
+
+2
+Store numbers in an ArrayList
+Find max and min values
+
+3 Remove Duplicates
+Take a list with duplicate values
+Remove duplicates using a HashSet
+
+4 Sort a List
+Sort an ArrayList in ascending and descending order
+
+5 Reverse a List
+Reverse elements of an ArrayList
+
+6. Count Frequency of Elements
+Input: [1, 2, 2, 3, 3, 3]
+
+Output:
+
+1 → 1 time  
+2 → 2 times  
+3 → 3 times 
 
 
 
