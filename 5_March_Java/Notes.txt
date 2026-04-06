@@ -885,4 +885,36 @@ Output:
 3 → 3 times 
 
 
+6th April 
+--- ArrayList 
+    Iterator 
+   instance of 
+
+Generics 
+---add integer numbers into list and reverse those numbers
+
+Book 
+title
+author
+no_of_pages
+price
+constrctor / display
+
+create List of 5 
+1. Add Book
+2. Update Book
+3. Delete Book
+4. Search Book
+5. Exit
+
+HashSet 
+LabTask : 
+Store and Print Student Names
+Remove Duplicate Numbers using Set
+Sort List of Integers (Collections.sort(list);)
+Find Maximum Element in List
+Reverse a List
+Check Palindrome using List
+
+
 
