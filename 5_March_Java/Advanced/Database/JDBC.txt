@@ -1,0 +1,21 @@
+9th April
+--- file based
+---database   permanenet / organized way
+row/table
+
+JDBC - JAva database Connectivity 
+Java ---- Database 
+bridge 
+
+steps to connect with database 
+1. Driver load
+2. connection object
+3. statemen
+4. execute 
+5 close
+
+LabTask :
+----create table
+----insert 20 records (ask from user)
+
+
