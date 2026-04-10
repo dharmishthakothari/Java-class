@@ -18,4 +18,34 @@ LabTask :
 ----create table
 ----insert 20 records (ask from user)
 
+10th April 
+---JDBC 
+database_Connective
+Java and Database(Mysql/Sql Server)
+
+stepts to connect 
+1. Driver load
+2. Connecion create 
+3. Statement
+4. execute query
+5. result set
+6. close 
+
+
+--->insert 
+-->update
+-->delete 
+executeUpdate  ---- int  insert,update,delete
+executeQuery --->ResultSet (select * )
+
+CRUD operation ---- 
+1. Insert 
+2. Update
+3. delete
+4. Search
+5. View All
+table already Employee (eid,ename,email,salary)
+1 insert 
+Add eid,ename,email,salary 
+
 
