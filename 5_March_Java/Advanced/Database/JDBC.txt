@@ -48,4 +48,22 @@ table already Employee (eid,ename,email,salary)
 1 insert 
 Add eid,ename,email,salary 
 
+13th April
+---- Hibernate ?
+Database Framework
+-configration file
+1. download jar file/Maven projects  add dependency (hibernate 
 
+2. hibernate.cfg.xml (coonection  ,stetement , query , execute , result , print , close conn)
+<>tags
+<hibernate-configration>
+<session-factory>
+
+ORM --- object Relational Mapping
+ class --Student (name,email.age)
+table ---Student (name,email,age)
+
+one - to one 
+
+Person      pid , pname , address , pid
+Passport   passportid,
