@@ -67,3 +67,22 @@ one - to one
 
 Person      pid , pname , address , pid
 Passport   passportid,
+
+16th April
+One - to one
+one to many 
+--- one customer have many orders
+SQL 
+  create table customer (cid int primary key,cname)
+
+ crate table orders(oid int primary , cid int,order_date date,qty int ,
+ forighn key(cid) reference customer(cid))
+
+@onetoMany
+
+Lab Task : 
+one student many subjecys
+
+Many to Many 
+
+
