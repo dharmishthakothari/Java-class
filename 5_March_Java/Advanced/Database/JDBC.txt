@@ -91,5 +91,11 @@ one to many
 
 many - to many 
 
+18th April 
+
+HQL --- 
+* from student
+* from Student
+insert can not perform with HQL
 
 
