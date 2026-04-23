@@ -1,0 +1,20 @@
+23rd April 
+
+core concept
+database 
+Web Technologies  ----- online
+---- Servlets 
+---  JSP
+
+server --- tomcat --- web server 
+
+@WebServlet --- Annotation , which indicate it is servlet class
+
+2 ways to create servlet 
+i) with class / web.xml
+ii) annotation 
+
+
+reuqest methods
+1. get  --- small data , not sensitive 
+2 post ---- large data , not shown in url 
