@@ -18,3 +18,8 @@ ii) annotation
 reuqest methods
 1. get  --- small data , not sensitive 
 2 post ---- large data , not shown in url 
+
+24th April 
+
+LabTask : table database html file username and password , create servlet which checks username and passwrd valid or not 
+2. Registration form store in database 
