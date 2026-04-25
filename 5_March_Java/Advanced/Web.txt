@@ -23,3 +23,10 @@ reuqest methods
 
 LabTask : table database html file username and password , create servlet which checks username and passwrd valid or not 
 2. Registration form store in database 
+
+LabTask : set database connectivity paramters in Serlvet Context
+
+Session Management 
+time period
+1. cookie
+2. session --- HttpSession
